@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 987654,
+      "Cover": "https://i.ibb.co/V9Nmzdh/toy-bricks-table-with-word-my-blog-144627-47466.jpg",
+      "Title": "The Enigmatic Cosmos",
+      "Author_img": "../src/assets/images/boy1.png",
+      "Author": "Tonu",
+      "Posted_Date": "March 12, 2024",
+      "Reading_Time": 15,
+      "Hashtags": ["#Space", "#Mystery", "#Exploration"]
+    },
+    {
+      "ID": 123456,
+      "Cover": "https://i.ibb.co/nndtn9J/technology-communication-icons-symbols-concept-53876-120314.jpg",
+      "Title": "Secrets of the Forgotten Kingdom",
+      "Author_img": "../src/assets/images/boy2.png",
+      "Author": "Sanjana",
+      "Posted_Date": "March 10, 2024",
+      "Reading_Time": 20,
+      "Hashtags": ["#Adventure", "#History", "#Discovery"]
+    },
+    {
+      "ID": 246810,
+      "Cover": "https://i.ibb.co/GtxGYYw/top-view-workspace-with-laptop-cup-tea-23-2148430815.jpg",
+      "Title": "Echoes of the Ancients",
+      "Author_img": "../src/assets/images/boy2.png",
+      "Author": "Sharear",
+      "Posted_Date": "March 8, 2024",
+      "Reading_Time": 25,
+      "Hashtags": ["#Archaeology", "#Mystery", "#Mythology"]
+    },
+    {
+      "ID": 135791,
+      "Cover": "https://i.ibb.co/2c7yDfM/blog-word-newspapers-458909-126.jpg",
+      "Title": "Into the Abyss: A Journey Beneath",
+      "Author_img": "../src/assets/images/girl1.jpg",
+      "Author": "Nihal",
+      "Posted_Date": "March 6, 2024",
+      "Reading_Time": 30,
+      "Hashtags": ["#Exploration", "#Adventure", "#DeepSea"]
+    },
+    {
+      "ID": 369258,
+      "Cover": "https://i.ibb.co/tDbSyWj/how-start-blog-blogging-beginners-ways-monetize-your-blog-blog-word-table-with-laptop-smartphone-ope.jpg",
+      "Title": "The Forgotten Chronicles",
+      "Author_img": "../src/assets/images/girl2.jpg",
+      "Author": "Tonni",
+      "Posted_Date": "March 4, 2024",
+      "Reading_Time": 18,
+      "Hashtags": ["#History", "#Mystery", "#AncientScrolls"]
+    }
+  ]
+  
