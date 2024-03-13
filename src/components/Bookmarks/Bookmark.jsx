@@ -10,7 +10,7 @@ const Bookmark = ({bookmark}) => {
 };
 
 Bookmark.propTypes = {
-    bookmark: PropTypes.func.isRequired
+    bookmark: PropTypes.object
 }
 
 export default Bookmark;
